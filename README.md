@@ -13,6 +13,22 @@
 
 ---
 
+## 🗂️ Highlighted Repositories
+
+<p align="center">
+  <a href="https://github.com/Khalll75/Aplikasi-Katalog-Lelang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khalll75&repo= Aplikasi-Katalog-Lelang&theme=gruvbox_light" />
+  </a>
+  <a href="https://github.com/TUBESIAE/MyStudyLife">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khalll75&repo=TUBESIAE/MyStudyLife&theme=gruvbox_light" />
+  </a>
+  <a href="https://github.com/Khalll75/Khalll75.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khalll75&repo=Khalll75.github.io&theme=gruvbox_light" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalisha7524/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/75khalisha/)
