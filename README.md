@@ -1,6 +1,4 @@
-# 👋 Hi there, I’m Khalisha Athaya Rabbani!
-
-🌸 A tech enthusiast with a heart for design, a brain for logic, and a passion for building meaningful digital experiences.
+# <img src="https://github.com/Khalll75/Khalll75/blob/main/banner.jpg?raw=true" width="100%" />
 
 ---
 
